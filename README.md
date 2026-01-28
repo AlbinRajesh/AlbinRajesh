@@ -25,12 +25,6 @@ I specialize in bridging the gap between Large Language Models and real-world ut
 * **Reliability:** Implementing advanced error handling and human-in-the-loop patterns in AI applications.
 ---
 
-### 📊 My GitHub Impact
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[AlbinRajesh]&show_icons=true&theme=tokyonight" alt="Albin's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[AlbinRajesh]&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
 ---
 
 ### 📫 Let's Collaborate
